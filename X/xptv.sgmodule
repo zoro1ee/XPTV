@@ -1,4 +1,4 @@
-#!url=https://raw.githubusercontent.com/fangkuia/XPTV/main/X/xptv.sgmodule
+#!url=https://raw.githubusercontent.com/zoro1ee/XPTV/main/X/xptv.sgmodule
 #!name=XPTV规则
 #!desc=仅直连
 [Rule]
@@ -109,11 +109,9 @@ DOMAIN, v.damoli.pro, DIRECT
 #哔嘀影视主页
 DOMAIN, www.xlys01.com, DIRECT
 #播放
-DOMAIN-SUFFIX, bytetos.com, DIRECT
 #烧火影视主页
 DOMAIN, saohuo.tv, DIRECT
 #播放
-DOMAIN, hhjx.hhplayer.comundefined, DIRECT
 DOMAIN-SUFFIX, video.iqiyi.com, DIRECT
 DOMAIN-SUFFIX, qitu-zuida.com, DIRECT
 DOMAIN, om.tc.qq.com, DIRECT
@@ -230,6 +228,7 @@ DOMAIN-SUFFIX, yishihui.com, DIRECT
 #金鹰主页
 DOMAIN, image.jinyingimage.com, DIRECT
 DOMAIN, jinyingzy.com, DIRECT
+DOMAIN-SUFFIX, jisu.com, DIRECT
 #播放
 DOMAIN, c.baisiweiting.com, DIRECT
 DOMAIN, hd.ijycnd.com, DIRECT
@@ -248,7 +247,6 @@ DOMAIN-KEYWORD, rrcdnbf, DIRECT
 #小黄人主页
 DOMAIN, iqyi.xiaohuangrentv.com, DIRECT
 #播放
-DOMAIN-KEYWORD, .jisu.com, DIRECT
 #牛牛主页
 DOMAIN, pic.niuniuzy.info, DIRECT
 #播放
@@ -333,7 +331,6 @@ DOMAIN-SUFFIX, tuvvv.vip, DIRECT
 DOMAIN-SUFFIX, ijkmnno.com, DIRECT
 DOMAIN-SUFFIX, deefg.vip, DIRECT
 DOMAIN-SUFFIX, lmnoprs.com, DIRECT
-DOMAIN-KEYWORD, shes, DIRECT
 DOMAIN-SUFFIX, yhzybf.com, DIRECT
 DOMAIN-SUFFIX, wgslsw.com, DIRECT
 DOMAIN, pic.jegms.com, DIRECT
@@ -344,7 +341,6 @@ DOMAIN, pic.wlongimg.com, DIRECT
 DOMAIN-KEYWORD, cdn.wls, DIRECT
 DOMAIN-KEYWORD, cdn.wlcdn, DIRECT
 #虎牙主页与播放
-DOMAIN-KEYWORD, .huya, DIRECT
 #飘零主页
 DOMAIN, p2100.net, DIRECT
 #无尽主页
@@ -382,8 +378,6 @@ DOMAIN, vdownload.hembed.com, DIRECT
 #MISSAV播放
 DOMAIN, surrit.com, DIRECT
 #SupJav-ST播放
-DOMAIN, streamtape.com, DIRECT
-DOMAIN-SUFFIX, tapecontent.net, DIRECT
 #秋名山见主页
 DOMAIN, api.maiyoux.com, DIRECT
 #播放
@@ -505,7 +499,6 @@ DOMAIN, pic1.imgyzzy.com, DIRECT
 DOMAIN, get.sogou.com, DIRECT
 DOMAIN, open.bigmodel.cn, DIRECT
 DOMAIN, vcover-vt-pic.puui.qpic.cn, DIRECT
-DOMAIN, img.lzzyimg.com, DIRECT
 DOMAIN, fs-im-kefu.7moor-fs1.com, DIRECT
 DOMAIN, img.image8899.net, DIRECT
 DOMAIN, img.picgo.net, DIRECT
